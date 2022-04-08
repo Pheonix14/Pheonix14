@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Discord Bots
 - 🌱 I’m currently learning ... HTML And CSS
-- 👯 I’m looking to collaborate on ... discord to promote my bot
+- 👯 I’m looking to collaborate on ... Discord to promote my bot
 - 🤔 I’m looking for help with ... discord.js errors
 - 💬 Ask me about ... discord.js
 - 📫 How to reach me: ... Discord : Pheonix</>#2810
