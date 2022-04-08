@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Pheonix14/Pheonix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Nothing
 - 🤔 I’m looking for help with ... Nothing
 - 💬 Ask me about ... discord.js
-- 📫 How to reach me: ... Discord : ![Pheonix</>#2810](https://discord.com/users/674145228063768587)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... Discord : Pheonix</>#2810
+- 😄 Pronouns: ... He/His
+- ⚡ Fun fact: ... I Play Minecraft Too Much
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pheonix14&count_private=true&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheonix14&show_icons=true&theme=radical)
