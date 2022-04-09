@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... discord.js
 - 📫 How to reach me: ... Discord : Pheonix</>#2810
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I Play Minecraft Too Much
+- ⚡ Fun fact: ... I Play Roblox Jailbreak Too Much
 
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000000">
 
