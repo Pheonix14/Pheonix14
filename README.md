@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix14&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix14" /> </p>
 
-- 🔭 I’m currently working on TrollBot Development [TrollBot](https://trollbot.ml)
+- 🔭 I’m currently working on [TrollBot Development](https://discord.gg/dvY83mBKrz)
 
-- 🌱 I’m currently learning **Typescript, Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **nodejs, javascript, discord.js**
+- 💬 Ask me about **NodeJs, JavaScript, Discord.js**
 
 - 📫 How to reach me **Discord - Pheonix#2810**
 
