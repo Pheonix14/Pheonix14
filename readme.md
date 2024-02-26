@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix14&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix14" /> </p>
 <p align="left"> <a href="https://twitter.com/pheonix1416" target="blank"><img src="https://img.shields.io/twitter/follow/pheonix1416?logo=twitter&style=for-the-badge" alt="pheonix1416" /></a> </p>
 
-- 🔭 I’m currently working on [Phoenix XShare](https://github.com/Pheonix14/Phoenix-XShare)
+- 🔭 I’m currently working on [Phoenix Open Tech](https://github.com/Phoenix-OPTE/)
 
-- 👯 I’m looking to collaborate on [Phoenix XShare](https://github.com/Pheonix14/Phoenix-XShare)
+- 👯 I’m looking to collaborate on [Phoenix Open Tech](https://github.com/Phoenix-OPTE/)
 
 - ⚡ Fun fact **I like to code and play video games**
 
