@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Pheonix aka Soumyajit, a full-stack developer and student 👨‍💻 from India 🇮🇳. working remotely since 2021 🚀</div>  
+### <div align="center">I'm Soumyajit -aka Pheonix, a full-stack developer and student 👨‍💻 from India 🇮🇳. working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Phoenix Open Tech](https://github.com/Phoenix-OPTE)  
+- 🔭 I’m currently working on [PyroQuanta](https://github.com/Pheonix14/PyroQuanta)  
   
 
 - 🌱 I’m currently learning NextJS  
